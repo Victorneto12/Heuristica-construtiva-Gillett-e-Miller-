@@ -1,2 +1,1 @@
-O código descreve uma heurística de varredura para cálculo de melhor rota para problemas de rotas de transporte escolar levando em consideração a quantidade de alunos por parada, a capacidade dos ônibus bem como a distância máxima que um aluno pode caminhar até uma das paradas. 
-as instâncias utilizadas para testes do código estão em anexo. 
+The code describes a scanning heuristic for calculating the best route for school transportation problems, taking into account the number of students per stop, bus capacity, and the maximum distance a student can walk to one of the stops. The instances used for testing the code are attached.
